@@ -1,0 +1,43 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  
+}
+*{
+    
+    padding: 0;
+    margin: 0;
+}
+fieldset{
+    color: rgb(55, 100, 0);  
+}
+input{
+    border-radius: 25px;
+    align-items: 0 auto;
+    height: 30px;
+    color: red;
+    background-color: #cfe766;
+
+}
+select{
+    color: cornflowerblue;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+}
+input:hover{
+    color: blue;
+}
+button{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgba(212 0 0 );
+    color: yellow;
+}
+button:hover{
+    color: #335642;
+}    
+form{
+  background-image:url(zuri.jpg);
+  
+}
